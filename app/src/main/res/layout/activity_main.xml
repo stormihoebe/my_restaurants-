@@ -27,7 +27,9 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="35dp"
         android:textColor="@color/colorPrimary"
-        tools:textSize="36sp"
+        tools:textSize="60sp"
+        android:textStyle="bold"
+
         android:textStyle="normal|bold" />
 
     <Button
